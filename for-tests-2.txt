@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 Hello from branch Razrabotka!
 
 =======
 
 HELLO FROM BRANCH TESTING!!!!
->>>>>>> testing
