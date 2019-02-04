@@ -1,2 +1,5 @@
+
 Test1.txt
 afdafda fdasfd fadaf da df
+
+Strokov V 7 из консоли \\ надеюсь получиться :)
